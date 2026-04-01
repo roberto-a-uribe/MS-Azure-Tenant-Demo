@@ -1,4 +1,4 @@
-🛡️Step 1 - Create a Network Security Group
+### 🛡️Step 1 - Create a dedicated Network Security Group (NSG)
 
 In this step I create a new NSG for the new resources group that will be envtually be used for the Virtual Machine
 
