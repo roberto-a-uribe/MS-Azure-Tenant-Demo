@@ -18,3 +18,11 @@ Create several resources associated with the new tenant.
 
 
 ### 🛡️[Step 4 - Create a Virtual Machine](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-VM-creation)
+
+
+
+Other Resources:
+
+
+
+### 🛡️Azure Storage Acount - Blob Storage (Future)
