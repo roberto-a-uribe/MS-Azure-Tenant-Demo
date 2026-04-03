@@ -1,6 +1,6 @@
 # 🛡️ Microsoft-Azure-Tenant-Demo-Portfolio 🛡️
 
-Within a newly created test Azure tenant I created several resources such as a Virtual Machine, Resource group, NSG, VNET for multiple labs within this portfolio. The objective of this lab is to showcase skills in creation of Azure environment from null.
+Within a newly created test Azure tenant I created several resources such as a Virtual Machine, Resource group, NSG, VNET for multiple portfolios. The objective of this lab is to showcase skills in creation of Azure environment from null.
 Create several resources associated with the new tenant.
 
 
