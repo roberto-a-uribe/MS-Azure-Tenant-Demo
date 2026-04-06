@@ -1,4 +1,4 @@
-## 🛡️ Create a Virtual Network for Resource Group
+## ⚙️  Create a Virtual Network for Resource Group
 
 
 The objective is to create a dedicated VNET for new tenant and start creating VMs.
