@@ -1,4 +1,4 @@
-## 🛡️ Create a New Virtual Machine 
+## ⚙️  Create a New Virtual Machine 
 
 
 ### Step 1 - Create a new virtual machine
