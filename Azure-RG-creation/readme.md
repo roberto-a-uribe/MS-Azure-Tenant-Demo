@@ -1,4 +1,4 @@
-## 🛡️Step 1 - Create a dedicated Resource Group
+## ⚙️ Step 1 - Create a dedicated Resource Group
 The objective is to create a dedicated resource group for new tenant and start creating VMs.
 
 
