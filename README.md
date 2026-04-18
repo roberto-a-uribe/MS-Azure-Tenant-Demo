@@ -22,7 +22,7 @@ Create several resources associated with the new tenant.
 
 
 
-<h2> Other Resources: </h2>
+<h2> BONUS Other Resources: </h2>
 
 
 ### 🛡️Azure Storage Acount - Blob Storage (Future)
