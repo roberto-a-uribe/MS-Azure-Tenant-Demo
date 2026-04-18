@@ -28,5 +28,8 @@ Create several resources associated with the new tenant.
 
 ### 🛡️[BONUS - Create a Storage Account](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-StorageAccount-Creation)
 
+### 🛡️[BONUS - Create a Container for Photos](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Container-Creation)
+
+
 
 
