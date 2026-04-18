@@ -4,12 +4,13 @@
 
 
 
-#### Step 1 
+#### Step 1 - Review current status
+
 
 ![Azure-Entra-Hybrid-SYNC](Azure-entra.png)
 
 
-Download the entra sync sync agent
+#### Step 2 - Download the entra sync sync agent
 
 
 ![Azure-Entra-Hybrid-SYNC](Azure-entra2.png)
