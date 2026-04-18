@@ -25,5 +25,8 @@ Create several resources associated with the new tenant.
 <h2> BONUS Other Resources: </h2>
 
 
-### 🛡️Azure Storage Acount - Blob Storage (Future)
+
+### 🛡️[BONUS - Create a Storage Account](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-StorageAccount-Creation)
+
+
 
