@@ -4,11 +4,11 @@ Within a newly created test Azure tenant I created several resources such as a V
 Create several resources associated with the new tenant.
 
 
-### 🛡️[Step 1 - Create a dedicated Resource Group](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-RG-creation)
+### 🛡️[Step 1 - Create a dedicated Azure  Resource Group](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-RG-creation)
 
 
 
-### 🛡️[Step 2 - Create a Network Security Group](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-NSG-creation)
+### 🛡️[Step 2 - Create an Azure Network Security Group](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-NSG-creation)
 
 
 
@@ -26,9 +26,9 @@ Create several resources associated with the new tenant.
 
 
 
-### 🛡️[BONUS - Create a Storage Account](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-StorageAccount-Creation)
+### 🛡️[BONUS - Create an Azure Storage Account](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-StorageAccount-Creation)
 
-### 🛡️[BONUS - Create a Container for Photos](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Container-Creation)
+### 🛡️[BONUS - Create an Azure Container for Photos](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Container-Creation)
 
 ### 🛡️[BONUS - Create a ON-PREM AD sync with Entra ID ](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Entra-Hybrid-SYNC)
 
