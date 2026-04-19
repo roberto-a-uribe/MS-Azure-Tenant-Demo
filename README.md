@@ -30,6 +30,8 @@ Create several resources associated with the new tenant.
 
 ### 🛡️[BONUS - Create a Container for Photos](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Container-Creation)
 
+### 🛡️[BONUS - Create a ON-PREM AD sync with Entra ID ](https://github.com/roberto-a-uribe/MS-Azure-Tenant-Demo/tree/main/Azure-Entra-Hybrid-SYNC)
+
 
 
 
