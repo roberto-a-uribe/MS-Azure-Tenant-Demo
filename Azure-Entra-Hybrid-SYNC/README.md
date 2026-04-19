@@ -1,6 +1,6 @@
 
 
-### ⚙️ In this exercise, I configured Entra Connect to synchronize users from an on‑premises Microsoft Windows Active Directory environment operating in hybrid mode. After the synchronization completed, I verified that the users from the local AD domain (BERTO.LOCAL) were successfully synced to the RUAIT Azure subscription.
+### ⚙️ In this exercise, I configured Entra Connect to synchronize users from an on‑premises Microsoft Windows Active Directory environment operating in hybrid mode. After the synchronization completed, I verified that the users from the local AD domain (BERTO.LOCAL) were successfully synced to the RUAIT Azure Entra ID subscription.
 
 
 #### Step 1 - Review current status
