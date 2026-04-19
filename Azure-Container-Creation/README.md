@@ -1,7 +1,7 @@
 
-### ⚙️ In this exercise I create a dedicated container for file upload storage like photos for employees from the desktop.
+### ⚙️ In this exercise I create a dedicated Azure container for file upload storage like photos for employees from the desktop.
 
-#### Container named - Employee-Photos
+#### Container name - Employee-Photos
 
 
 ![Azure-Container-Creation](Azure-Container-create1.png)
@@ -22,6 +22,9 @@
 
 
 ![Azure-Container-Creation](Azure-Container-PHOTO1.png)
+
+
+#### UPLOAD from desktop 
 
 ![Azure-Container-Creation](Azure-Container-PHOTO2.png)
 
