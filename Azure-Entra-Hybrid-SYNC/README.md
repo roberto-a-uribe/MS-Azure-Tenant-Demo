@@ -54,4 +54,47 @@
 
 ![Azure-Entra-Hybrid-SYNC](Azure-entra20.png)
 
+![Azure-Entra-Hybrid-SYNC](Azure-entra21.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra22.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra23.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra24.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra25.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra26.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra27.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra28.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra29.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra30.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra31-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra32.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra33.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra34.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra35.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra36-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra37-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra38-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra39-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra40-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra41-check.png)
+
+![Azure-Entra-Hybrid-SYNC](Azure-entra42-check.png)
 
